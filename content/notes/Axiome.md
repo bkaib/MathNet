@@ -1,7 +1,7 @@
 ---
 title: Axiome
 tags: 
-draft: true
+draft: false
 ---
 ## 🥜 Axiome: In a Nutshell
 
