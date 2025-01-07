@@ -2,6 +2,8 @@
 title: "{{title}}"
 draft: true
 tags:
+  - 🌰Seed
+up:
 ---
 ## 🥜 {{title}}: In a Nutshell
 

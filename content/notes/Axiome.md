@@ -1,7 +1,9 @@
 ---
 title: Axiome
-tags: 
-draft: false
+tags:
+  - 🌰Seed
+draft: true
+up:
 ---
 ## 🥜 Axiome: In a Nutshell
 

@@ -1,7 +1,9 @@
 ---
 title: Natürliche Zahlen
-draft: false
+draft: true
 tags:
+  - 🌱Seedling
+up:
 ---
 ## 🥜 Natürliche Zahlen: In a Nutshell
 
