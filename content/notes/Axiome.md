@@ -2,7 +2,7 @@
 title: Axiome
 tags:
   - 🌰Seed
-draft: true
+draft: false
 up:
 ---
 ## 🥜 Axiome: In a Nutshell
