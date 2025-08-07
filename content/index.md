@@ -1,9 +1,10 @@
 ---
 title: MathNet
 draft: false
-tags:
+tags: 
+up:
 ---
-## ❓Wieso gibt es das MathNet? Skrrrrrript
+## ❓Wieso gibt es das MathNet?
 
 - **Mathe als Toolbox:** Mathematik ist eine der ältesten Wissenschaften. Seit Jahrhunderten wird sie genutzt, um Muster zu formalisieren, Figuren und Formen zu beschreiben und unsere Welt zu modellieren. Sie hilft uns dabei, die Natur auf Gesetzmäßigkeiten zu untersuchen und ist gewissermaßen der Werkzeugkasten für die meisten Wissenschaften.
 

@@ -5,9 +5,15 @@ tags:
   - 🌰Seed
 up:
 ---
+
+
 ## 🥜 {{title}}: In a Nutshell
 
 1. Punkt 1
+
+## 📺 Video
+
+- [ ] Produce video of {{title}} 
 
 ## 🔎 Mathematische Beschreibung
 
