@@ -10,7 +10,7 @@ up:
 
 - **Mathe für alle:** Genau deswegen sollte jeder die Möglichkeit haben, Mathe zu verstehen. Das MathNet soll Mathe für alle zugänglich machen, unabhängig vom Finanziellen.
 
-- **Mathe als Netzwerk:** Die Mathematik als Tool ist stückweise entwickelt wurden. Ausgehend von dem Fundament der als wahr angesehenen [[Axiome]] ließen sich auf der Basis von [[Logik]]  wesentliche Erkenntnisse ([[notes/Sätze|Sätze]]) herleiten, die wir als Werkzeuge zur Beschreibung unserer Umwelt nutzen können. 
+- **Mathe als Netzwerk:** Die Mathematik als Tool ist stückweise entwickelt wurden. Ausgehend von dem Fundament der als wahr angesehenen [Axiome](Axiome.md) ließen sich auf der Basis von [Logik](Logik.md) wesentliche Erkenntnisse ([[notes/Sätze|Sätze]]) herleiten, die wir als Werkzeuge zur Beschreibung unserer Umwelt nutzen können. 
 
 	- Man merkt direkt; Mathe abstrahiert und Mathe ist verstrickt. Mathematik ist gewissermaßen ein Netzwerk aus Ideen, dass sich ausgehend von den fundamentalen Axiomen immer weiter strikt.
 
