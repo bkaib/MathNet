@@ -1,5 +1,5 @@
 ---
-title: "{{title}}"
+title: "Reelle Zahlen"
 draft: true
 tags:
   - 🌰Seed
@@ -7,9 +7,9 @@ up:
 ---
 
 
-- [ ] Produce content for {{title}}
+- [ ] Produce content for Reelle Zahlen
 
-## 🥜 {{title}}: In a Nutshell
+## 🥜 Reelle Zahlen: In a Nutshell
 
 1. Punkt 1
 

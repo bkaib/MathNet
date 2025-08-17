@@ -11,9 +11,10 @@ up:
 
 ## 🔎 Mathematische Beschreibung
 
-Zahlen können anhand von Verknüpfungen miteinander kombiniert werden.
-
 - [ ] ggf. Skript schreiben was LaTex zu Markdown converted
+
+
+Zahlen können anhand von Verknüpfungen miteinander kombiniert werden.
 
     \begin{itemize}
 

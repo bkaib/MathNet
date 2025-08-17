@@ -1,5 +1,5 @@
 ---
-title: "{{title}}"
+title: "Venn-Diagramme"
 draft: true
 tags:
   - 🌰Seed
@@ -7,9 +7,9 @@ up:
 ---
 
 
-- [ ] Produce content for {{title}}
+- [ ] Produce content for Venn-Diagramme
 
-## 🥜 {{title}}: In a Nutshell
+## 🥜 Venn-Diagramme: In a Nutshell
 
 1. Punkt 1
 

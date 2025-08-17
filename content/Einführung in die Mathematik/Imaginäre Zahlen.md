@@ -1,5 +1,5 @@
 ---
-title: "{{title}}"
+title: "Imaginäre Zahlen"
 draft: true
 tags:
   - 🌰Seed
@@ -7,9 +7,9 @@ up:
 ---
 
 
-- [ ] Produce content for {{title}}
+- [ ] Produce content for Imaginäre Zahlen
 
-## 🥜 {{title}}: In a Nutshell
+## 🥜 Imaginäre Zahlen: In a Nutshell
 
 1. Punkt 1
 

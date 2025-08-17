@@ -1,5 +1,5 @@
 ---
-title: "{{title}}"
+title: Teilmenge
 draft: true
 tags:
   - 🌰Seed
@@ -7,14 +7,12 @@ up:
 ---
 
 
-- [ ] Produce content for {{title}}
-
-## 🥜 {{title}}: In a Nutshell
+- [ ] Produce content for Teilmenge
+## 🥜 Teilmenge: In a Nutshell
 
 1. Punkt 1
 
 ## 📺 Video
-
 
 ## 🔎 Mathematische Beschreibung
 

@@ -1,5 +1,5 @@
 ---
-title: "{{title}}"
+title: "Koordinatensysteme"
 draft: true
 tags:
   - 🌰Seed
@@ -7,9 +7,9 @@ up:
 ---
 
 
-- [ ] Produce content for {{title}}
+- [ ] Produce content for Koordinatensysteme
 
-## 🥜 {{title}}: In a Nutshell
+## 🥜 Koordinatensysteme: In a Nutshell
 
 1. Punkt 1
 

@@ -1,5 +1,5 @@
 ---
-title: "{{title}}"
+title: "Sätze"
 draft: true
 tags:
   - 🌰Seed
@@ -7,14 +7,13 @@ up:
 ---
 
 
-- [ ] Produce content for {{title}}
-
-## 🥜 {{title}}: In a Nutshell
+## 🥜 Sätze: In a Nutshell
 
 1. Punkt 1
 
 ## 📺 Video
 
+- [ ] Produce video of Sätze 
 
 ## 🔎 Mathematische Beschreibung
 
